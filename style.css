@@ -1,0 +1,8 @@
+main::after{
+    content:" ";
+display:block;
+height: 1px;
+  width: 100vw;
+  left: 0;
+  background: rgb(173, 171, 171);
+}
